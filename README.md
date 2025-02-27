@@ -12,7 +12,7 @@ DOCTYPE html>
     <div class="container">
         <nav>
             <div class="logo">
-                <h1>GetFit's</h1>
+                <h1>A.R zone fist</h1>
             </div>
             <ul>
                 <li>
